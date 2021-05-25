@@ -1,0 +1,44 @@
+
+.menu {
+	margin-bottom: 25px;
+}
+
+.app {
+	margin-top: 25px;
+}
+.fa-check-square:hover {
+ background-color: gold;
+ transition: 1s ease-out;
+}
+.pagina {
+	border:solid 1px #DFDFDF;
+	padding:25px !important;
+}
+
+li.list-group-item.active {
+	background-color: rgb(255, 254, 254);
+	border-color: #0d6efd;
+    border-left:solid 10px #0d6efd;
+}
+
+li a {
+	color: #1a1919;
+	
+}
+
+li a:hover {
+	text-decoration: none;
+}
+
+
+h4 {
+	color: #0d6efd !important;
+}
+
+/* colocar pointer no item de tarefas */
+.cursor-pointer{
+  cursor: pointer;
+}
+
+
+
